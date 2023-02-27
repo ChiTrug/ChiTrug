@@ -16,4 +16,4 @@ My name is Trung. I am a Data Science in Mathematics & Computer Science, majorin
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChiTrug&repo=IntroductionToData-Science-project&theme=synthwave" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiTrug&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiTrug&repo=gold-price-prediction)](https://github.com/anuraghazra/github-readme-stats)
