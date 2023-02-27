@@ -10,7 +10,8 @@ My name is Trung. I am a Data Science in Mathematics & Computer Science, majorin
 <a href="https://github.com/ChiTrug/gold-price-prediction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChiTrug&repo=gold-price-prediction&theme=radical" />
-</a>    
+</a> 
+
 <a href="https://github.com/ChiTrug/IntroductionToData-Science-project/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChiTrug&repo=IntroductionToData-Science-project&theme=synthwave" />
