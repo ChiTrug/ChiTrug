@@ -19,6 +19,6 @@ My name is Trung. I am a Data Science in Mathematics & Computer Science, majorin
 
 <a href="https://github.com/ChiTrug/He-Quan-Tri-CSDL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChiTrug&repo=He-Quan-Tri-CSDL&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChiTrug&repo=He-Quan-Tri-CSDL&theme=dracula" />
 </a>
 
